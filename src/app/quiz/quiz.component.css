@@ -1,0 +1,6 @@
+.section {
+    margin: -60px;
+    height: 100vh;
+    background-color: #ccdbeb;
+    display: grid;
+}
